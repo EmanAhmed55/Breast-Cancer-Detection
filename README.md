@@ -13,7 +13,6 @@
         <li><a href="#usage">Usage</a></li>
         <li><a href="#evaluation">Evaluation</a></li>
         <li><a href="#contributing">Contributing</a></li>
-        <li><a href="#license">License</a></li>
     </ul>
     <h2 id="installation">Installation</h2>
     <p>To run this project, you need to have the following Python packages installed:</p>
